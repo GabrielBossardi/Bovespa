@@ -19,3 +19,4 @@ Extrair os dados da bovespa e disponibilizar através de uma base de dados.
 4. Modelar os dados com o dbt
 5. Desenvolver a documentação com o dbt
 6. Desenvolver os testes com o dbt
+7. Teste
